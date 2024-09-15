@@ -1,4 +1,4 @@
-# Programing Syntax
+# Programing Syntax Complexity
 
 **Questions:** What role does syntax simplicity play in a language, and are there examples where more complex syntax led to greater power or expressiveness? How does syntax complexity impact the learning curve for new developers, and are there cases where a steeper learning curve resulted in long-term benefits? Can a language with simple syntax still provide advanced features for power users, or does simplicity inherently limit expressiveness? How has syntax become more complex over time, or has it become simpler? How does the trade-off between syntax simplicity and expressiveness affect a language’s adoption in industry versus academia?
 
